@@ -17,7 +17,8 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/TpPSXs3.gifv' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+**Video Walkthrough**
+![Video Walkthrough](http://i.imgur.com/TpPSXs3.gifv "Video Walkthrough for Tip Calculator")
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
