@@ -505,6 +505,7 @@
 				538CE8FB1E769ED100D38730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		538CE8FC1E769ED100D38730 /* Build configuration list for PBXNativeTarget "Tipsy CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				538CE8FE1E769ED100D38730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		538CE8FF1E769ED100D38730 /* Build configuration list for PBXNativeTarget "Tipsy CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				538CE9011E769ED100D38730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
