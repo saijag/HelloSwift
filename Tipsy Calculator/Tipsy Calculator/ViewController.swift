@@ -14,7 +14,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipSelector: UISegmentedControl!
-
+    @IBOutlet weak var sharesCount: UITextField!
+    @IBOutlet weak var eachShare: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -25,6 +27,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+   
     @IBAction func onTap(_ sender: AnyObject) {
 //        print("hey")
         view.endEditing(true)
@@ -35,9 +38,13 @@ class ViewController: UIViewController {
         let bill = Double(billAmt.text!) ?? 0
         let tip = bill*tipPercentages[tipSelector.selectedSegmentIndex]
         let total = tip+bill
+        let shares = Double(sharesCount.text!) ?? 1
+        let aShare = total/shares
+        
         
         tipLabel.text=String(format:"$%.2f",tip)
         totalLabel.text=String(format:"$%.2f",total)
+        eachShare.text = String(format: "$%.2f",aShare)
     }
 
 }
