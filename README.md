@@ -4,7 +4,7 @@ Tipsy Calculator is a tip calculator application for iOS.
 
 Submitted by: Sai Jagtap
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -13,12 +13,12 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] Settings page to change the default tip percentage.
 
-## Video Walkthrough 
+The following **optional** features are implemented:
+* [x] Splitting the bill
 
-Here's a walkthrough of implemented user stories:
 
 **Video Walkthrough**
-![](http://i.imgur.com/TpPSXs3.gifv)
+<img src='http://i.imgur.com/JYJ7eX6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
