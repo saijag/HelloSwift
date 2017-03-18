@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 * [x] Splitting the bill
 
 
-**Video Walkthrough**
+**Video Walkthrough<br />"**
 <img src='http://i.imgur.com/JYJ7eX6.gif' width='' alt='Video Walkthrough'/>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
