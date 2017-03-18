@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 
 **Video Walkthrough**
-<img src='http://i.imgur.com/JYJ7eX6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='http://i.imgur.com/JYJ7eX6.gif' title='Video Walkthrough<br>' width='' alt='Video Walkthrough'/>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
