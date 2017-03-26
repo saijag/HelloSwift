@@ -1,4 +1,4 @@
-#Tipsy Calculator
+# Tipsy Calculator
 
 Tipsy Calculator is a tip calculator application for iOS.
 
